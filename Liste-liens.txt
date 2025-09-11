@@ -53,3 +53,7 @@ https://symfony.com/
 https://laravel.com/
 https://wordpress.org/download/
 https://www.behance.net/
+https://boxicons.com/
+https://v2.boxicons.com/
+https://michalsnik.github.io/aos/
+https://gsap.com/docs/v3/
